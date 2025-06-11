@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Depsinn</string>
+    <string name="send">Gönder</string>
+    <string name="message_hint">Mesajınızı yazın...</string>
+    <string name="connect">Bağlan</string>
+    <string name="disconnect">Bağlantıyı Kes</string>
+    <string name="create_hotspot">Hotspot Oluştur</string>
+    <string name="scan_devices">Cihazları Tara</string>
+</resources> 

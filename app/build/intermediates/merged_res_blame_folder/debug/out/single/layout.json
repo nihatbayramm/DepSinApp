@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-mergeDebugResources-30:/layout/item_device.xml",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_device.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-mergeDebugResources-30:/layout/activity_chat.xml",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-mergeDebugResources-30:/layout/item_message_received.xml",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-mergeDebugResources-30:/layout/item_message_sent.xml",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "com.example.depsinn.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.depsinn.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-mergeDebugResources-30:/layout/item_message.xml",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_message.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-mergeDebugResources-30:/layout/message_item.xml",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/message_item.xml"
+    }
+]

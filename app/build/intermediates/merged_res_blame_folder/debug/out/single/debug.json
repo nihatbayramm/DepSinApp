@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_message_sent_background.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/message_sent_background.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/layout_item_message.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_message.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/raw_karaliste.txt.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/raw/karaliste.txt"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_message_bubble_received.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/message_bubble_received.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_ico.jpg.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/ico.jpg"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/layout_item_message_sent.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_message_sent.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/xml_network_security_config.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_button_background.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/button_background.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_message_received_background.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/message_received_background.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_message_bubble_sent.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/message_bubble_sent.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_afesg.png.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/afesg.png"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/mipmap_ic_launcher.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_message_background_sent.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/message_background_sent.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/layout_item_message_received.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_message_received.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_message_background_received.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/message_background_received.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/layout_activity_chat.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/mipmap_ic_launcher_round.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/layout_message_item.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/message_item.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/layout_item_device.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/layout/item_device.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_arayuz.jpg.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/arayuz.jpg"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_edit_text_background.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.depsinn.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.depsinn.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-merged_res-31:/drawable_message_background.xml.flat",
+        "source": "/home/nihat-bayram/.gradle/daemon/8.7/com.example.depsinn.app-main-33:/drawable/message_background.xml"
+    }
+]
