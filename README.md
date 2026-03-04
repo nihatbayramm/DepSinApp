@@ -98,6 +98,6 @@ git clone https://github.com/nihatbayramm/DepSinApp.git
 cd DepSinApp
 
 ```
-Developper :
+## Developper :
 Server - Backend : @nihatbayramm
 Frontend : @bilgeberfin , @selmaduzme
