@@ -99,5 +99,6 @@ cd DepSinApp
 
 ```
 ## Developper :
-Server - Backend : @nihatbayramm
-Frontend : @bilgeberfin , @selmaduzme
+**Server - Backend : @nihatbayramm**
+
+**Frontend : @bilgeberfin , @selmaduzme**
