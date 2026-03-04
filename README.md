@@ -96,3 +96,5 @@ Amaç: **en kısa sürede doğru kişiye ulaşmak**
 ```bash
 git clone https://github.com/nihatbayramm/DepSinApp.git
 cd DepSinApp
+
+Developper : @bilgeberfin
