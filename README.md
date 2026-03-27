@@ -1,9 +1,9 @@
-# 🆘 Depsin – Afet Anında Yerel Ağ Tabanlı Yardım Uygulaması
+# 🆘 Depsin – Local Network Based Assistance Application in Case of Disaster
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AFET--MODU-AKTİF-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/OFFLINE--READY-YES-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LOCAL--NETWORK-HOTSPOT-blue?style=for-the-badge">
+<p align="center"> 
+<img src="https://img.shields.io/badge/AFET--MODU-ACTIVE-red?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/OFFLINE--READY-YES-black?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/LOCAL--NETWORK-HOTSPOT-blue?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -12,93 +12,110 @@
 
 ---
 
-## 📌 Proje Özeti
+## 📌 Project Summary
 
-**Depsin**, afet anlarında **internet veya mobil şebeke olmadan**,  
-cihazların **yerel ağ (hotspot)** üzerinden birbirleriyle iletişim kurmasını sağlayan,  
-**acil yardım odaklı** bir mobil uygulamadır.
+**Depsin** is a mobile application focused on emergency assistance that enables devices to communicate with each other via a **local network (hotspot)** during disasters, even without internet or mobile network access.
 
-Uygulama; yardım isteyenler ile yardım edebilecek kişileri  
-**en hızlı ve basit şekilde** aynı ağ üzerinde buluşturmayı hedefler.
+The application aims to bring together those who need help and those who can help,
 
----
-
-## 🚀 Temel Özellikler
-
-- 📡 **Hotspot tabanlı cihazlar arası iletişim (offline çalışır)**  
-- 🆘 **“Yardım Al” / “Yardım Et” butonları ile hızlı aksiyon**  
-- 💬 **Sunucuya bağlı cihazlar arasında mesajlaşma**  
-- 🗃️ **SQLite ile cihaz içi (yerel) veri saklama**  
-- ⚡ **Düşük gecikme – hızlı veri iletimi**
+in the fastest and simplest way, on the same network.
 
 ---
 
-## 🎬 İletişim & Akış Mantığı
+## 🚀 Key Features
+
+- 📡 **Hotspot-based device communication (works offline)**
+
+- 🆘 **Quick action with “Get Help” / “Help” buttons**
+
+- 💬 **Messaging between devices connected to the server**
+
+- 🗃️ **On-device (local) data storage with SQLite**
+
+- ⚡ **Low latency – fast data transmission**
+
+---
+
+## 🎬 Communication & Flow Logic
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300">
 </p>
 
 <p align="center">
-  <i>Yerel ağ tabanlı cihazlar arası iletişim</i>
+
+<i>Local network-based device communication</i>
+
 </p>
 
+- A device **hotspot (local (network)** creates
 
-- Bir cihaz **hotspot (yerel ağ)** oluşturur  
-- Diğer cihazlar bu ağa bağlanır  
-- Sunucu, aynı ağdaki cihazlardan gelen istekleri dinler  
-- Yardım çağrıları ve mesajlar **anlık olarak** ağ içinde yayılır  
+- Other devices connect to this network
 
-Bu yapı sayesinde:
-- İnternet bağımlılığı ortadan kalkar  
-- Afet koşullarında iletişim devam eder  
-- Sistem hızlı ve kararlı çalışır  
+- The server listens for requests from devices on the same network
 
----
+- Help calls and messages are broadcast **instantly** within the network
 
-## 🧪 Test Ortamı
+Thanks to this structure:
 
-📌 Uygulama şu anda **kontrollü test senaryosu** ile çalıştırılmaktadır:
+- Internet dependency is eliminated
 
-- 💻 **Sunucu**: Geliştirici bilgisayarında aktif  
-- 📶 **Ağ**: Bilgisayar üzerinden oluşturulan hotspot  
-- 📱 **Mobil cihazlar**: Bu ağa bağlanarak sunucu ile iletişim kurar  
+- Communication continues in disaster conditions
 
-✅ Bu yöntem, **internetin tamamen kesildiği** senaryoları simüle etmek için kullanılır.  
-🔜 İlerleyen aşamada sunucu, **sabit IP veya bulut altyapısına** taşınacaktır.
+- The system works quickly and stably
 
 ---
 
-## 📱 Afet Senaryosu
+## 🧪 Test Environment
 
-1. Bir kullanıcı hotspot açar  
-2. Diğer kullanıcılar bu ağa bağlanır  
-3. Yardım çağrıları gönderilir  
-4. Aynı ağdaki cihazlara anında iletilir  
-5. Yerel veritabanında kayıt altına alınır  
+📌 The application is currently running with a **controlled test scenario**:
 
-Amaç: **en kısa sürede doğru kişiye ulaşmak**
+- 💻 **Server**: Active on the developer's computer
+
+- 📶 **Network**: Hotspot created via the computer
+
+- 📱 **Mobile devices**: Connect to this network and communicate with the server
+
+✅ This method is used to simulate scenarios where the internet is completely cut off.
+
+🔜 In the next stage, the server will be moved to a **static IP or cloud infrastructure**.
 
 ---
 
-## ⚙️ Kullanılan Teknolojiler
+## 📱 Disaster Scenario
+
+1. A user opens a hotspot
+
+2. Other users connect to this network
+
+3. Help calls are sent
+
+4. They are instantly forwarded to devices on the same network
+
+5. They are recorded in the local database
+
+Goal: **To reach the right person as quickly as possible**
+
+---
+
+## ⚙️ Technologies Used
 
 - 📱 Android (Java / Kotlin)
-- 🌐 Lokal ağ (HTTP / Socket)
-- 🗃️ SQLite (yerel veritabanı)
-- 🔐 Planlanan: Şifreli mesajlaşma
-- 🤖 Planlanan: AI destekli yardım önceliklendirme
+- 🌐 Local network (HTTP / Socket)
+- 🗃️ SQLite (local database)
+- 🔐 Planned: Encrypted messaging
+- 🤖 Planned: AI-powered help prioritization
 
 ---
 
-## 🛠 Kurulum
+## 🛠 Setup
 
 ```bash
 git clone https://github.com/nihatbayramm/DepSinApp.git
 cd DepSinApp
 
 ```
-## Developper :
-**Server - Backend : @nihatbayramm**
+## Developer:
+**Server - Backend: @nihatbayramm**
 
-**Frontend : @bilgeberfin , @selmaduzme**
+**Frontend: @bilgeberfin, @selmaduzme**
